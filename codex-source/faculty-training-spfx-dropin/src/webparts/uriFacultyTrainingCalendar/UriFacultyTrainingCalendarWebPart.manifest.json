@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "09c760a9-cdfb-4705-85d3-13ec018a45df",
+  "alias": "UriFacultyTrainingCalendarWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart"],
+  "supportsThemeVariants": true,
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70c",
+      "group": {
+        "default": "Advanced"
+      },
+      "title": {
+        "default": "URI Faculty Training Calendar"
+      },
+      "description": {
+        "default": "Interactive calendar of faculty development trainings available through URI member organizations."
+      },
+      "officeFabricIconFontName": "Calendar",
+      "properties": {
+        "title": "URI Faculty Development Training Calendar: Available PD from URI's Member Organizations"
+      }
+    }
+  ]
+}
+

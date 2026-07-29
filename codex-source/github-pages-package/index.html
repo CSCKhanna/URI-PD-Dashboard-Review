@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>URI Faculty Development Training Calendar: Available PD from URI's Member Organizations</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <svg aria-hidden="true" class="icon-sprite">
+      <symbol id="icon-search" viewBox="0 0 24 24">
+        <path d="M10.8 18.2a7.4 7.4 0 1 1 0-14.8 7.4 7.4 0 0 1 0 14.8Zm0-2a5.4 5.4 0 1 0 0-10.8 5.4 5.4 0 0 0 0 10.8Zm10.1 3.5-1.4 1.4-4.2-4.2 1.4-1.4 4.2 4.2Z"/>
+      </symbol>
+      <symbol id="icon-refresh" viewBox="0 0 24 24">
+        <path d="M17.8 6.2A8 8 0 0 0 4.1 11H2a10 10 0 0 1 16.4-7.7L21 1.9V8h-6.1l2.9-1.8ZM6.2 17.8A8 8 0 0 0 19.9 13H22A10 10 0 0 1 5.6 20.7L3 22.1V16h6.1l-2.9 1.8Z"/>
+      </symbol>
+      <symbol id="icon-download" viewBox="0 0 24 24">
+        <path d="M11 3h2v9l3.3-3.3 1.4 1.4L12 15.8 6.3 10.1l1.4-1.4L11 12V3Zm-7 14h2v3h16v-3h2v5H4v-5Z"/>
+      </symbol>
+      <symbol id="icon-print" viewBox="0 0 24 24">
+        <path d="M7 3h10v5H7V3Zm-2 9a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v3h-3v-2H8v2H5v-3Zm3 4h8v5H8v-5Z"/>
+      </symbol>
+      <symbol id="icon-link" viewBox="0 0 24 24">
+        <path d="M8.8 17.2a5 5 0 0 1 0-7.1l1.7-1.7 1.4 1.4-1.7 1.7a3 3 0 0 0 4.2 4.2l1.7-1.7 1.4 1.4-1.7 1.7a5 5 0 0 1-7 0Zm2.1-2.8 4.2-4.2 1.4 1.4-4.2 4.2-1.4-1.4Zm2.7-8.6 1.7-1.7a5 5 0 1 1 7.1 7.1l-1.7 1.7-1.4-1.4 1.7-1.7a3 3 0 1 0-4.2-4.2l-1.7 1.7-1.5-1.5Z"/>
+      </symbol>
+      <symbol id="icon-copy" viewBox="0 0 24 24">
+        <path d="M7 7V3h14v14h-4v4H3V7h4Zm2 0h8v8h2V5H9v2Zm-4 2v10h10V9H5Z"/>
+      </symbol>
+      <symbol id="icon-help" viewBox="0 0 24 24">
+        <path d="M11 18h2v-2h-2v2Zm1-16a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16Zm0-15a4 4 0 0 0-4 4h2a2 2 0 1 1 3.2 1.6c-1.4 1-2.2 1.9-2.2 3.4v.5h2V14c0-.8.4-1.2 1.4-1.9A4 4 0 0 0 12 5Z"/>
+      </symbol>
+    </svg>
+
+    <header class="topbar">
+      <div class="brand-block">
+        <div class="seal-mark" aria-hidden="true">
+          <img src="./assets/uri-seal-web.png" alt="">
+        </div>
+        <div>
+          <h1>URI Faculty Development Training Calendar: Available PD from URI's Member Organizations</h1>
+        </div>
+      </div>
+      <div class="status-block" id="statusBlock">
+        <span class="status-dot" id="statusDot"></span>
+        <span id="lastUpdatedText">Loading data...</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar" aria-label="Training filters">
+        <label class="search-box has-tooltip" data-tooltip="Search by training title, provider, topic, description, access note, or source.">
+          <svg class="button-icon" aria-hidden="true"><use href="#icon-search"></use></svg>
+          <input id="searchInput" type="search" placeholder="Search trainings, descriptions, sources">
+        </label>
+        <label class="select-wrap has-tooltip" data-tooltip="Change the order of the currently visible trainings.">
+          <span>Sort</span>
+          <select id="sortSelect">
+            <option value="date">Date</option>
+            <option value="provider">Provider</option>
+            <option value="priority">Priority</option>
+          </select>
+        </label>
+        <label class="select-wrap has-tooltip" data-tooltip="Filter by the part of the year when a training is most useful.">
+          <span>Timing</span>
+          <select id="timeSelect">
+            <option value="all">All year</option>
+            <option value="upcoming">Upcoming dated items</option>
+            <option value="summer">Summer 2026</option>
+            <option value="fall">Fall 2026</option>
+            <option value="spring">Spring 2027</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="quick-actions" aria-label="Page actions">
+        <button id="viewCards" class="mode-button active has-tooltip" type="button" aria-pressed="true" data-tooltip="Browse full training cards with dates, access notes, topics, and source links.">Cards</button>
+        <button id="viewTimeline" class="mode-button has-tooltip" type="button" aria-pressed="false" data-tooltip="Group visible trainings by month.">Timeline</button>
+        <button id="viewTable" class="mode-button has-tooltip" type="button" aria-pressed="false" data-tooltip="See a compact spreadsheet-style version of the visible list.">Table</button>
+        <button id="guideButton" class="icon-button has-tooltip" type="button" aria-expanded="false" aria-controls="guidePanel" data-tooltip="Open a short guide to the filters, buttons, and list categories.">
+          <svg class="button-icon" aria-hidden="true"><use href="#icon-help"></use></svg>
+          Guide
+        </button>
+        <button id="csvButton" class="icon-button has-tooltip" type="button" data-tooltip="Download the currently visible list as a CSV file.">
+          <svg class="button-icon" aria-hidden="true"><use href="#icon-download"></use></svg>
+          CSV
+        </button>
+        <button id="icsButton" class="icon-button has-tooltip" type="button" data-tooltip="Download dated visible items as an .ics calendar file.">
+          <svg class="button-icon" aria-hidden="true"><use href="#icon-download"></use></svg>
+          Calendar
+        </button>
+        <button id="copyButton" class="icon-button has-tooltip" type="button" data-tooltip="Copy short announcement text for the currently featured items.">
+          <svg class="button-icon" aria-hidden="true"><use href="#icon-copy"></use></svg>
+          Announcement
+        </button>
+        <button id="printButton" class="icon-button has-tooltip" type="button" data-tooltip="Open a print-friendly version of the current page.">
+          <svg class="button-icon" aria-hidden="true"><use href="#icon-print"></use></svg>
+          Print
+        </button>
+      </section>
+
+      <section id="guidePanel" class="guide-panel" aria-label="Button guide" hidden>
+        <div class="guide-head">
+          <h2>Button Guide</h2>
+          <button id="guideClose" class="mode-button" type="button">Close</button>
+        </div>
+        <div class="guide-grid">
+          <article>
+            <h3>Filters</h3>
+            <p><strong>Search</strong> narrows by title, provider, topic, description, access note, or source.</p>
+            <p><strong>Sort</strong> orders by date, provider, or priority.</p>
+            <p><strong>Timing</strong> limits the list to all year, upcoming, summer, fall, or spring.</p>
+          </article>
+          <article>
+            <h3>Views and Exports</h3>
+            <p><strong>Cards</strong> is the full browsing view and moves the card results to the top of the viewport.</p>
+            <p><strong>Timeline</strong> groups items by month and moves the timeline results to the top of the viewport.</p>
+            <p><strong>Table</strong> is a compact list for scanning and moves the table results to the top of the viewport.</p>
+            <p><strong>CSV</strong>, <strong>Calendar</strong>, <strong>Announcement</strong>, and <strong>Print</strong> export the current filtered list.</p>
+          </article>
+          <article>
+            <h3>Audience Chips</h3>
+            <p><strong>Audience chips</strong> show only trainings for selected career stages or roles.</p>
+            <p>Use them to scan programming for groups such as new faculty, chairs, associate professors, graduate students, or instructors.</p>
+          </article>
+          <article>
+            <h3>Provider, Topic, and Audience Chips</h3>
+            <p><strong>Provider chips</strong> show only trainings from selected organizations or categories such as Other.</p>
+            <p><strong>Topic chips</strong> show only selected themes such as AI, Writing, Promotion & Tenure, Teaching, or Mentoring.</p>
+            <p><strong>Audience chips</strong> show only selected career stages, faculty roles, or learner groups.</p>
+            <p><strong>Source</strong> links open the provider or evidence page for a card or access note.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="chips-area" aria-label="Provider, topic, and audience filters">
+        <div>
+          <h2>Providers</h2>
+          <div id="providerChips" class="chip-row"></div>
+        </div>
+        <div>
+          <h2>Topics</h2>
+          <div id="topicChips" class="chip-row"></div>
+        </div>
+        <div>
+          <h2>Audience</h2>
+          <div id="audienceChips" class="chip-row"></div>
+        </div>
+      </section>
+
+      <section class="metrics-grid" aria-label="Summary metrics">
+        <article class="metric-tile">
+          <span class="metric-label">Showing</span>
+          <strong id="metricShowing">0</strong>
+        </article>
+        <article class="metric-tile">
+          <span class="metric-label">Needs Confirmation</span>
+          <strong id="metricConfirm">0</strong>
+        </article>
+      </section>
+
+      <section class="results-shell" aria-label="Training results">
+        <div class="results-head">
+          <h2 id="resultsTitle">Recommended Trainings</h2>
+          <span id="resultsCount"></span>
+        </div>
+        <div id="emptyState" class="empty-state" hidden>No trainings match the current filters.</div>
+        <div id="cardsView" class="cards-grid"></div>
+        <div id="timelineView" class="timeline-view" hidden></div>
+        <div id="tableView" class="table-view" hidden></div>
+      </section>
+
+      <section class="access-panel" aria-label="Access notes">
+        <button class="section-toggle" id="accessToggle" type="button">Access Notes</button>
+        <div id="accessNotes" class="access-notes open"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>Built from curated URI faculty-development sources.</span>
+      <span id="serverStatus">Updates run automatically daily at 11:59 p.m. Eastern.</span>
+    </footer>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
