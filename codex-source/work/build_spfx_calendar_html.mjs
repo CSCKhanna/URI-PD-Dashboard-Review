@@ -67,7 +67,7 @@ const html = `<!doctype html>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>URI Faculty Development Training Calendar: Available PD from URI's Member Organizations</title>
+    <title>URI Instructor Development Calendar: Professional Development from URI and Member Organizations</title>
     <style>
 ${stylesCss}
 html, body {
