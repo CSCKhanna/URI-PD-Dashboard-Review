@@ -2,7 +2,7 @@
   "meta": {
     "title": "URI Instructor Development Calendar: Professional Development from URI and Member Organizations",
     "subtitle": "Available professional development from URI's member organizations",
-    "lastUpdated": "2026-10-09T11:07:08.350Z",
+    "lastUpdated": "2026-10-10T10:24:48.485Z",
     "dataVersion": 1,
     "notes": [
       "The three starter DOCX files were imported locally on June 2, 2026.",
@@ -12,14 +12,14 @@
       "URI Provost Office mentoring/training plan events were added from the uploaded 2026 plan on July 27, 2026.",
       "Audience chips replaced List chips on July 27, 2026; audience/career-stage duplicates were removed from topic labels."
     ],
-    "nextUpdateRecommended": "2026-10-16T11:07:08.350Z",
+    "nextUpdateRecommended": "2026-10-17T10:24:48.485Z",
     "sourceSnapshots": [
       {
         "key": "uri_atl_fall_2026",
         "provider": "URI-ATL",
         "label": "URI ATL Fall 2026 programming",
         "url": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Teaching",
@@ -43,7 +43,7 @@
         "provider": "NCFDD",
         "label": "URI NCFDD membership page",
         "url": "https://web.uri.edu/diversity/training/national-center-for-faculty-development-diversity-ncfdd/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [],
         "detectedDates": [],
@@ -55,7 +55,7 @@
         "provider": "NCFDD",
         "label": "NCFDD 14-Day Writing Challenge",
         "url": "https://www.ncfdd.org/programs/14-day-writing-challenge/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "14-Day Writing Challenge",
@@ -87,7 +87,7 @@
         "provider": "NCFDD",
         "label": "NCFDD events and webinar archive",
         "url": "https://www.ncfdd.org/category/events-and-webinars/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI",
@@ -136,7 +136,7 @@
         "provider": "CIRTL",
         "label": "URI ATL CIRTL page",
         "url": "https://web.uri.edu/atl/graduate-students/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [],
         "detectedDates": [],
@@ -148,7 +148,7 @@
         "provider": "CIRTL",
         "label": "CIRTL upcoming events and courses",
         "url": "https://cirtl.net/events/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI",
@@ -167,14 +167,14 @@
           }
         ],
         "title": "Events",
-        "snippet": "Events from October 9 &#8211; December 10 &#8211; CIRTL Network Skip to main content CIRTL Central Team Log In Calendar Contact Us About About CIRTL Why CIRTL Values Core Ideas Learning Goals Achievement Levels News Contact Us The CIRTL Network Institutions Leadership CIRTL Central Alumni Network Events &#038; Courses Upcoming Past How to Attend CIRTL Networ"
+        "snippet": "Events from October 10 &#8211; December 10 &#8211; CIRTL Network Skip to main content CIRTL Central Team Log In Calendar Contact Us About About CIRTL Why CIRTL Values Core Ideas Learning Goals Achievement Levels News Contact Us The CIRTL Network Institutions Leadership CIRTL Central Alumni Network Events &#038; Courses Upcoming Past How to Attend CIRTL Netwo"
       },
       {
         "key": "cirtl_summer_2026",
         "provider": "CIRTL",
         "label": "CIRTL Summer 2026 programming",
         "url": "https://cirtl.net/summer-2026-cirtl-network-programming/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI",
@@ -187,16 +187,16 @@
             "iso": "2026-04-24"
           },
           {
+            "label": "November 25, 2025",
+            "iso": "2025-11-25"
+          },
+          {
             "label": "October 4, 2023",
             "iso": "2023-10-04"
           },
           {
-            "label": "June 6, 2023",
-            "iso": "2023-06-06"
-          },
-          {
-            "label": "December 4, 2024",
-            "iso": "2024-12-04"
+            "label": "October 26, 2023",
+            "iso": "2023-10-26"
           }
         ],
         "title": "Summer 2026 CIRTL Network Programming",
@@ -207,7 +207,7 @@
         "provider": "EAB",
         "label": "EAB Higher Education AI Resource Center",
         "url": "https://eab.com/resources/resource-center/higher-education-ai-resource-center/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI",
@@ -223,7 +223,7 @@
         "provider": "EAB",
         "label": "EAB Construction Kit for Faculty AI Resources",
         "url": "https://eab.com/resources/tool/construction-kit-faculty-ai-resources/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI",
@@ -238,18 +238,15 @@
         "provider": "CUR",
         "label": "CUR Community event calendar",
         "url": "https://community.cur.org/events/calendar",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI",
           "Mentor",
-          "Undergraduate Research"
+          "Undergraduate Research",
+          "Writing"
         ],
         "detectedDates": [
-          {
-            "label": "Oct 9, 2026",
-            "iso": "2026-10-09"
-          },
           {
             "label": "Oct 13, 2026",
             "iso": "2026-10-13"
@@ -277,6 +274,10 @@
           {
             "label": "Nov 13, 2026",
             "iso": "2026-11-13"
+          },
+          {
+            "label": "Nov 17, 2026",
+            "iso": "2026-11-17"
           }
         ],
         "title": "Upcoming Events",
@@ -287,7 +288,7 @@
         "provider": "CUR",
         "label": "CUR COEUR 2.0",
         "url": "https://www.cur.org/resources-publications/coeur-2-0/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "COEUR",
@@ -307,7 +308,7 @@
         "provider": "CUR",
         "label": "CUR mentoring insight page",
         "url": "https://www.cur.org/insights/mentoring/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Mentoring"
@@ -321,7 +322,7 @@
         "provider": "AAC&U",
         "label": "AAC&U AI Week listing",
         "url": "https://hawksites.newpaltz.edu/fdc/2026/04/21/aac-apr-27-30/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI"
@@ -340,7 +341,7 @@
         "provider": "CUR",
         "label": "CUR Enhanced Membership activation",
         "url": "https://www.cur.org/membership-community/membership/activate-enhanced-membership-benefits/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [],
         "detectedDates": [],
@@ -352,7 +353,7 @@
         "provider": "CUR",
         "label": "CUR ConnectUR",
         "url": "https://www.cur.org/events-services/connectur/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "ConnectUR",
@@ -401,7 +402,7 @@
         "provider": "CUR",
         "label": "CUR Grant Dialogues",
         "url": "https://www.cur.org/events-services/dialogues/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Grant Dialogues",
@@ -434,7 +435,7 @@
         "provider": "CUR",
         "label": "CUR on-demand learning courses",
         "url": "https://www.cur.org/events-services/on-demand-learning-courses/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "AI"
@@ -448,7 +449,7 @@
         "provider": "CIRTL",
         "label": "CIRTL Instructor Materials",
         "url": "https://cirtl.net/instructor-materials/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Instructor Materials",
@@ -463,7 +464,7 @@
         "provider": "CIRTL",
         "label": "CIRTL Teaching-as-Research",
         "url": "https://cirtl.net/teaching-as-research/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Teaching-as-Research"
@@ -477,7 +478,7 @@
         "provider": "CIRTL",
         "label": "CIRTL Disciplinary Learning Communities",
         "url": "https://cirtl.net/disciplinary-learning-communities/",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Disciplinary Learning Communities",
@@ -492,7 +493,7 @@
         "provider": "Other",
         "label": "Brown Advance-CTR Research Mentoring Training Programs",
         "url": "https://advancectr.brown.edu/events-training/research-mentoring-training-programs",
-        "lastFetched": "2026-10-09T11:07:08.350Z",
+        "lastFetched": "2026-10-10T10:24:48.485Z",
         "status": "ok",
         "keywordsFound": [
           "Research Mentoring Training",
@@ -516,8 +517,8 @@
       "successfulSources": 21,
       "detectedItems": 0,
       "addedDiscoveries": 0,
-      "prunedPastEvents": 1,
-      "updatedKnownItems": 45
+      "prunedPastEvents": 4,
+      "updatedKnownItems": 42
     },
     "documentImports": [
       {
@@ -633,7 +634,7 @@
       "description": "A webinar for faculty who teach writing or use writing for learning and assessment in an AI-disrupted context.",
       "whyInclude": "Directly connects two priority themes: writing pedagogy and generative AI.",
       "sourceUrl": "https://hawksites.newpaltz.edu/fdc/2026/04/21/aac-apr-27-30/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "ncfdd-mentor-map",
@@ -691,7 +692,7 @@
       "description": "A structured two-week challenge to rebuild writing routines before the academic year begins.",
       "whyInclude": "Well-timed pre-semester writing reset.",
       "sourceUrl": "https://www.ncfdd.org/programs/14-day-writing-challenge/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "cur-enhanced-membership-activation",
@@ -722,7 +723,7 @@
       "description": "Faculty, mentors, administrators, students, and staff can activate CUR membership benefits and access CUR communities, divisions, resources, and member materials.",
       "whyInclude": "This should be the first CUR item promoted so faculty can unlock the rest of the CUR resources.",
       "sourceUrl": "https://www.cur.org/membership-community/membership/activate-enhanced-membership-benefits/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "eab-construction-kit-faculty-ai-resources",
@@ -752,7 +753,7 @@
       "description": "Toolkit for building faculty AI policy guidance and resource lists for curricular and teaching practice.",
       "whyInclude": "Useful for departments that need a practical AI resource list before fall syllabi are finalized.",
       "sourceUrl": "https://eab.com/resources/tool/construction-kit-faculty-ai-resources/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-ATL",
@@ -762,7 +763,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-academic-testing-center-ongoing",
       "title": "Academic Testing Center",
       "startDate": "2026-08-17",
@@ -791,7 +792,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-consultations-ongoing",
       "title": "ATL Teaching and Curriculum Consultations",
       "startDate": "2026-08-17",
@@ -820,7 +821,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-brightspace-basics-ongoing",
       "title": "Brightspace Basics",
       "startDate": "2026-08-17",
@@ -929,7 +930,7 @@
       "description": "A short orientation module that explains URI's CUR membership, how to activate benefits, how undergraduate research supports faculty work, and how to document undergraduate research mentoring for annual review and promotion.",
       "whyInclude": "The CUR resource-system document specifically recommends a new-faculty welcome packet, activation instructions, inspiring UR examples, and guidance on noting UR activity for P&T.",
       "sourceUrl": "https://www.cur.org/membership-community/membership/activate-enhanced-membership-benefits/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "ncfdd-develop-daily-writing-practice-2026",
@@ -958,7 +959,7 @@
       "description": "Writing routine webinar that explicitly connects daily writing practice to tenure and promotion expectations.",
       "whyInclude": "Good first-month-of-fall intervention for sustainable scholarly productivity.",
       "sourceUrl": "https://www.ncfdd.org/events/members-only-develop-daily-writing-practice/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "ncfdd-monday-motivator",
@@ -1044,7 +1045,7 @@
       "description": "Structured, coached productivity and writing program.",
       "whyInclude": "Valuable but not part of the free/basic institutional membership list.",
       "sourceUrl": "https://www.ncfdd.org/programs/faculty-success-program/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-ATL",
@@ -1054,7 +1055,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-ptf-meet-greet-2026",
       "title": "Part-time Faculty Meet & Greet",
       "startDate": "2026-09-14",
@@ -1102,7 +1103,7 @@
       "description": "CUR offers online forums for disciplinary divisions, jobs, student journals, and resource-sharing among undergraduate research mentors and program leaders.",
       "whyInclude": "A lightweight way for faculty to find discipline-specific undergraduate research mentoring examples and colleagues.",
       "sourceUrl": "https://community.cur.org/home",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-ATL",
@@ -1112,7 +1113,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-graduate-student-learning-community-2026",
       "title": "Graduate Student Learning Community",
       "startDate": "2026-09-15",
@@ -1139,7 +1140,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-walk-talk-2026",
       "title": "ATL Walk & Talk",
       "startDate": "2026-09-17",
@@ -1168,7 +1169,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-strategies-tools-gta-2026",
       "title": "Strategies & Tools for Graduate Teaching Assistants",
       "startDate": "2026-09-17",
@@ -1195,7 +1196,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-sotl-guide-book-club-2026",
       "title": "The SoTL Guide Book Club",
       "startDate": "2026-09-17",
@@ -1242,7 +1243,7 @@
       "description": "A 9-hour, peer-driven program based on CIMER/NRMN mentor-training curriculum that helps faculty mentors strengthen communication, mentoring strategies, and professional-development outcomes.",
       "whyInclude": "Adds a strong mentoring-focused option that complements CUR undergraduate-research mentoring and NCFDD mentoring/planning resources.",
       "sourceUrl": "https://advancectr.brown.edu/events-training/research-mentoring-training-programs",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-ATL",
@@ -1252,7 +1253,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-unraveling-faculty-burnout-book-club-2026",
       "title": "Book Club: Unraveling Faculty Burnout",
       "startDate": "2026-09-21",
@@ -1280,7 +1281,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-ptf-community-practice-2026",
       "title": "Part-time Faculty Community of Practice",
       "startDate": "2026-09-23",
@@ -1325,7 +1326,7 @@
       "description": "Time management, academic writing, support networks, and alignment with institutional and personal priorities.",
       "whyInclude": "Good fit for new and early-career faculty navigating writing expectations and first-year overload.",
       "sourceUrl": "https://www.ncfdd.org/events/members-only-mastering-academic-time-management/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-ATL",
@@ -1335,7 +1336,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-fall-writing-retreats-2026",
       "title": "Fall Writing Retreats",
       "startDate": "2026-09-25",
@@ -1364,7 +1365,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-slow-professor-book-club-2026",
       "title": "Book Club: The Slow Professor",
       "startDate": "2026-09-29",
@@ -1413,35 +1414,7 @@
       "description": "Materials from selected CIRTL courses and workshops, including syllabi, course plans, handouts, slides, and assignments.",
       "whyInclude": "Useful for faculty adapting evidence-based teaching materials without waiting for a live course.",
       "sourceUrl": "https://cirtl.net/instructor-materials/",
-      "lastVerified": "2026-10-09"
-    },
-    {
-      "provider": "URI-Provost's Office",
-      "status": "recommended",
-      "priority": "local",
-      "access": "Local URI Provost Office mentoring/training plan item; confirm final attendance details with the Provost Office if needed.",
-      "accessStatus": "local",
-      "costStatus": "local",
-      "sourceUrl": "./assets/provost-faculty-mentoring-plan-2026.docx",
-      "lastVerified": "2026-07-27",
-      "id": "uri-provost-member-institute-pd-1-2026",
-      "title": "Professional Development from URI Member Institute 1",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "dateLabel": "Friday, October 9, 2026, 11:15 a.m.-12:45 p.m.; online",
-      "datePrecision": "exact",
-      "format": "Online professional development",
-      "topics": [
-        "Professional Development",
-        "Faculty Development",
-        "Member Resources"
-      ],
-      "audience": [
-        "New faculty",
-        "Junior faculty"
-      ],
-      "description": "First planned online professional development item from a URI member institute.",
-      "whyInclude": "Part of the plan’s incentive pathway encouraging new faculty to complete two URI member-institute workshops."
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "ncfdd-ais-go-marching-on-recording",
@@ -1469,7 +1442,7 @@
       "description": "Practical and ethical approaches to AI in teaching and learning, including hands-on activities and draft materials.",
       "whyInclude": "Works well as a fall teaching-and-learning discussion session after faculty have seen AI issues in live courses.",
       "sourceUrl": "https://www.ncfdd.org/events-and-webinars/finding-way-with-ai-education/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "eab-higher-ed-ai-resource-center",
@@ -1499,7 +1472,7 @@
       "description": "Research, strategy, and guidance on AI across student success, enrollment, and higher education strategy.",
       "whyInclude": "Useful for chairs, deans, and faculty leaders who need governance and institutional-strategy context.",
       "sourceUrl": "https://eab.com/resources/resource-center/higher-education-ai-resource-center/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "other-brown-advance-mentors-supporting-mentors",
@@ -1527,7 +1500,7 @@
       "description": "Quarterly Zoom meetings where trained mentors discuss mentoring issues and relevant topics with members of the Mentoring Steering Committee.",
       "whyInclude": "Keeps mentoring development active after the initial training and gives faculty a peer network for research mentoring questions.",
       "sourceUrl": "https://advancectr.brown.edu/events-training/research-mentoring-training-programs",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "ncfdd-teaching-toolkit-ai-hold",
@@ -1553,7 +1526,7 @@
       "description": "Course on assessment, grading, teaching workload, and AI-informed teaching decisions.",
       "whyInclude": "Strong topic fit, but it should be held unless funding is available.",
       "sourceUrl": "https://www.ncfdd.org/programs/teaching-toolkit/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "cur-publications-member-resources",
@@ -1618,7 +1591,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-mitigating-burnout-workshop-2026",
       "title": "Understanding and Mitigating Burnout Workshop",
       "startDate": "2026-10-28",
@@ -1665,7 +1638,7 @@
       "description": "Teaching-as-Research uses deliberate, systematic, and reflective inquiry to improve teaching practices and student learning outcomes.",
       "whyInclude": "Helps faculty connect teaching improvement to evidence that can be documented in annual review or promotion materials.",
       "sourceUrl": "https://cirtl.net/teaching-as-research/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-Provost's Office",
@@ -1729,7 +1702,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-finishing-semester-strong-2026",
       "title": "Finishing the Semester Strong",
       "startDate": "2026-11-16",
@@ -1776,7 +1749,7 @@
       "description": "COEUR 2.0 offers a framework for building successful and accessible undergraduate research programs.",
       "whyInclude": "Helps faculty and programs document undergraduate research mentoring as teaching, scholarship, and service evidence.",
       "sourceUrl": "https://www.cur.org/resources-publications/coeur-2-0/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-ATL",
@@ -1786,7 +1759,7 @@
       "accessStatus": "verified",
       "costStatus": "free-or-member",
       "sourceUrl": "https://web.uri.edu/atl/fall-2026-atl-programming/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "id": "uri-atl-assessing-learning-2026",
       "title": "Assessing Learning",
       "startDate": "2026-11-30",
@@ -1885,7 +1858,7 @@
       "description": "Includes mentoring resources such as Mentoring through Failure and Mentoring in Engineering Undergraduate Research.",
       "whyInclude": "Can support faculty in documenting undergraduate mentoring quality and outcomes in annual review and promotion materials.",
       "sourceUrl": "https://www.cur.org/insights/mentoring/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-Provost's Office",
@@ -1998,7 +1971,7 @@
       "description": "NCFDD core and guest expert webinars, member library, accountability buddy matches, and writing resources.",
       "whyInclude": "A flexible January restart for faculty planning, writing, boundaries, mentoring networks, and productivity.",
       "sourceUrl": "https://web.uri.edu/diversity/training/national-center-for-faculty-development-diversity-ncfdd/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "cirtl-disciplinary-learning-communities",
@@ -2028,7 +2001,7 @@
       "description": "Two curricula and survey tools that departments can use to facilitate disciplinary learning communities around teaching and discipline-based education research.",
       "whyInclude": "Gives chairs and programs a ready structure for department-level faculty development.",
       "sourceUrl": "https://cirtl.net/disciplinary-learning-communities/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "cur-grant-dialogues-hold",
@@ -2057,7 +2030,7 @@
       "description": "A CUR and NGMA professional development event on navigating the funding landscape.",
       "whyInclude": "Strong writing/grants fit, but should not be advertised as free without cost confirmation.",
       "sourceUrl": "https://www.cur.org/events-services/dialogues/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-Provost's Office",
@@ -2168,7 +2141,7 @@
       "description": "Webinar on teacher research thinking and reasoning AI, including benefits and risks.",
       "whyInclude": "Good AI option for faculty thinking about inquiry, student research, and education contexts.",
       "sourceUrl": "https://www.cur.org/membership-community/divisions/education-division/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "eab-ai-at-the-tipping-point",
@@ -2228,7 +2201,7 @@
       "description": "Potentially relevant courses include Ethical Use of AI in Higher Education, Introduction to ChatGPT for Academic Research, Master Class on Grant Writing Best Practices, and Building Mentorship and Student Supervision Skills for University Faculty.",
       "whyInclude": "Excellent topic fit for AI, writing, and mentoring, but cost status needs review.",
       "sourceUrl": "https://www.cur.org/events-services/on-demand-learning-courses/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "id": "eab-academic-departments-strategy",
@@ -2287,7 +2260,7 @@
       "description": "Placeholder to refresh the page with the newest CIRTL AI, inclusive teaching, and teaching-as-research offerings.",
       "whyInclude": "CIRTL schedules change by semester and should be refreshed rather than frozen.",
       "sourceUrl": "https://cirtl.net/",
-      "lastVerified": "2026-10-09"
+      "lastVerified": "2026-10-10"
     },
     {
       "provider": "URI-Provost's Office",
@@ -2535,7 +2508,7 @@
       "description": "ConnectUR - The Council on Undergraduate Research Skip to the content The Council on Undergraduate Research Join My Account Profile Log In Log Out My Communities Recent Events Recent Purchases Email Preferences Forgot Password Search Search About What is Undergraduate Research? Mission and History Strategic Plan Leadership CUR Impact Report Code of Conduct M",
       "whyInclude": "Newly detected by the updater because the source page matched the calendar's priority topics.",
       "sourceUrl": "https://www.cur.org/events-services/connectur/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "detectedByUpdater": true
     },
     {
@@ -2565,7 +2538,7 @@
       "description": "ConnectUR - The Council on Undergraduate Research Skip to the content The Council on Undergraduate Research Join My Account Profile Log In Log Out My Communities Recent Events Recent Purchases Email Preferences Forgot Password Search Search About What is Undergraduate Research? Mission and History Strategic Plan Leadership CUR Impact Report Code of Conduct M",
       "whyInclude": "Newly detected by the updater because the source page matched the calendar's priority topics.",
       "sourceUrl": "https://www.cur.org/events-services/connectur/",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "detectedByUpdater": true
     },
     {
@@ -2595,94 +2568,7 @@
       "description": "ConnectUR - The Council on Undergraduate Research Skip to the content The Council on Undergraduate Research Join My Account Profile Log In Log Out My Communities Recent Events Recent Purchases Email Preferences Forgot Password Search Search About What is Undergraduate Research? Mission and History Strategic Plan Leadership CUR Impact Report Code of Conduct M",
       "whyInclude": "Newly detected by the updater because the source page matched the calendar's priority topics.",
       "sourceUrl": "https://www.cur.org/events-services/connectur/",
-      "lastVerified": "2026-10-09",
-      "detectedByUpdater": true
-    },
-    {
-      "id": "detected-cur-grant-dialogues-2027-registration-opening-1",
-      "title": "Grant Dialogues 2027 Registration Opening",
-      "provider": "CUR",
-      "status": "discovered",
-      "priority": "review",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "dateLabel": "Detected source date: Oct 9, 2026",
-      "datePrecision": "detected",
-      "format": "Detected event index",
-      "topics": [
-        "AI",
-        "Writing",
-        "Mentoring",
-        "Faculty Leadership"
-      ],
-      "audience": [
-        "Faculty"
-      ],
-      "access": "Automatically detected from a source page. Review access and cost.",
-      "accessStatus": "confirm",
-      "costStatus": "membership-confirmation-needed",
-      "description": "Upcoming Events - Council on Undergraduate Research Skip to main content (Press Enter). Sign in Skip auxiliary navigation (Press Enter). Contact Us Rules & Etiquette CUR Homepage Skip main navigation (Press Enter). Toggle navigation Home Forums All Forums My Forums Directory Events Upcoming Events Resources Job Board Volunteer Opportunities Making the Most o",
-      "whyInclude": "Newly detected by the updater because the source page matched the calendar's priority topics.",
-      "sourceUrl": "https://community.cur.org/events/calendar",
-      "lastVerified": "2026-10-09",
-      "detectedByUpdater": true
-    },
-    {
-      "id": "detected-cur-nace-cur-workshop-series-session-1-career-readiness-and-unde-2",
-      "title": "NACE–CUR Workshop Series Session 1: Career Readiness and Undergraduate Research: The What and Why",
-      "provider": "CUR",
-      "status": "discovered",
-      "priority": "review",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "dateLabel": "Detected source date: Oct 9, 2026",
-      "datePrecision": "detected",
-      "format": "Detected event index",
-      "topics": [
-        "AI",
-        "Writing",
-        "Mentoring",
-        "Faculty Leadership"
-      ],
-      "audience": [
-        "Faculty"
-      ],
-      "access": "Automatically detected from a source page. Review access and cost.",
-      "accessStatus": "confirm",
-      "costStatus": "membership-confirmation-needed",
-      "description": "Upcoming Events - Council on Undergraduate Research Skip to main content (Press Enter). Sign in Skip auxiliary navigation (Press Enter). Contact Us Rules & Etiquette CUR Homepage Skip main navigation (Press Enter). Toggle navigation Home Forums All Forums My Forums Directory Events Upcoming Events Resources Job Board Volunteer Opportunities Making the Most o",
-      "whyInclude": "Newly detected by the updater because the source page matched the calendar's priority topics.",
-      "sourceUrl": "https://community.cur.org/events/calendar",
-      "lastVerified": "2026-10-09",
-      "detectedByUpdater": true
-    },
-    {
-      "id": "detected-cur-nace-cur-workshop-series-session-2-best-practices-for-integr-3",
-      "title": "NACE–CUR Workshop Series Session 2: Best Practices for Integrating Career Readiness into Undergradua",
-      "provider": "CUR",
-      "status": "discovered",
-      "priority": "review",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "dateLabel": "Detected source date: Oct 9, 2026",
-      "datePrecision": "detected",
-      "format": "Detected event index",
-      "topics": [
-        "AI",
-        "Writing",
-        "Mentoring",
-        "Faculty Leadership"
-      ],
-      "audience": [
-        "Faculty"
-      ],
-      "access": "Automatically detected from a source page. Review access and cost.",
-      "accessStatus": "confirm",
-      "costStatus": "membership-confirmation-needed",
-      "description": "Upcoming Events - Council on Undergraduate Research Skip to main content (Press Enter). Sign in Skip auxiliary navigation (Press Enter). Contact Us Rules & Etiquette CUR Homepage Skip main navigation (Press Enter). Toggle navigation Home Forums All Forums My Forums Directory Events Upcoming Events Resources Job Board Volunteer Opportunities Making the Most o",
-      "whyInclude": "Newly detected by the updater because the source page matched the calendar's priority topics.",
-      "sourceUrl": "https://community.cur.org/events/calendar",
-      "lastVerified": "2026-10-09",
+      "lastVerified": "2026-10-10",
       "detectedByUpdater": true
     }
   ]
